@@ -10,7 +10,7 @@ It combines a user friendly Tkinter interface with real-time feedback, making pa
 - Copy to Clipboard – Easily copy your password.  
 - Regex Validation – Checks for uppercase letters, numbers, special characters, and overall complexity.  
 
-## Skills Demonstrated 🏆
+## Skills Demonstrated 
 - Python scripting & Tkinter GUI
 - Regex-based validation
 - Password security concepts
